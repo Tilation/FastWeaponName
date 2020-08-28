@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tilation Fast Weapon Name", "Tilation Fast Weapon Name\Tilation Fast Weapon Name.csproj", "{1C2ECA55-A298-4D63-B460-CCFFC2805B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2ECA55-A298-4D63-B460-CCFFC2805B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2ECA55-A298-4D63-B460-CCFFC2805B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2ECA55-A298-4D63-B460-CCFFC2805B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2ECA55-A298-4D63-B460-CCFFC2805B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20CF772D-3EAA-44F1-9CD6-98B47991E625}
+	EndGlobalSection
+EndGlobal
